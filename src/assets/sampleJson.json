@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Elon Musk among experts urging a halt to AI training",
+            "description": "Elon Musk among those calling for training in powerful artificial intelligence to be suspended.",
+            "url": "http://www.bbc.co.uk/news/technology-65110030",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1345A/production/_129183987_gettyimages-1239416791.jpg",
+            "publishedAt": "2023-03-29T14:22:19.0393193Z",
+            "content": "Key figures in artificial intelligence want training of powerful AI systems to be suspended amid fears of a threat to humanity.\r\nThey have signed an open letter warning of potential risks, and say th… [+3186 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Swimmers in Hawaii accused of harassing dolphins",
+            "description": "Swimming with dolphins is popular with tourists in Hawaii but federal law bans getting too close.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65114336",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/242A/production/_129185290_img_9166.jpg",
+            "publishedAt": "2023-03-29T13:22:23.3187946Z",
+            "content": "Authorities are investigating a group of swimmers accused of \"aggressively\" harassing a pod of dolphins off Hawaii's Big Island. \r\nSwimming with dolphins is a popular tourist activity in Hawaii but f… [+1586 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russian spies more effective than army, say experts",
+            "description": "Russia's intelligence services have had more success in Ukraine than its army, says a top think tank.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65113340",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6D2C/production/_129184972_d723a19421f6a318e385b0282e302686f98ff965.jpg",
+            "publishedAt": "2023-03-29T13:07:29.351797Z",
+            "content": "Russia's security and intelligence services have achieved greater success in Ukraine than its army, says a leading UK defence think tank.\r\nRussian spy agencies began preparing for the invasion of Ukr… [+4092 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Outrage over deadly fire at Mexico migrant centre grows",
+            "description": "Footage has emerged which appears to show officers failing to open a locked door as the fire erupted.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-65111258",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1133A/production/_129185407_6cf26b1b59abd1d4244a3de3f268eff9c9d428e60_0_4825_32171000x667.jpg",
+            "publishedAt": "2023-03-29T12:37:18.6798613Z",
+            "content": "Outrage is growing in Mexico following a fire at a migrant centre in Ciudad Juárez in which 38 migrants died. \r\nUnverified footage has emerged, which appears to show the moment the fire started at th… [+4890 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Paul O'Grady: TV presenter and comedian dies aged 67",
+            "description": "The TV presenter and comedian died \"unexpectedly but peacefully\" on Tuesday evening, his husband says.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-65108130",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/176A4/production/_129180959_hi083460981.jpg",
+            "publishedAt": "2023-03-29T07:52:19.1312895Z",
+            "content": "Presenter and comedian Paul O'Grady has died at the age of 67. \r\nHe died \"unexpectedly but peacefully\" on Tuesday evening, his husband Andre Portasio said in a statement. \r\nO'Grady rose to fame in th… [+5446 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Prince Harry accuses Associated Newspapers of 'criminality'",
+            "description": "The Duke of Sussex is bringing a legal case alongside six other claimants, including Sir Elton John.",
+            "url": "http://www.bbc.co.uk/news/uk-65105315",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1254F/production/_129178057_princeharryhighcourt.png",
+            "publishedAt": "2023-03-29T06:22:22.2262384Z",
+            "content": "Prince Harry says he is determined to hold the publisher of the Mail newspapers to account as he says he is \"deeply concerned\" by their \"unchecked power, influence and criminality\".\r\nHis witness stat… [+8528 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nashville shooter sent a former classmate messages moments before attack",
+            "description": "\"I'm still trying to wrap my head around what we're going through,\" former classmate Averianna Patton told the BBC.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65106763",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C9E7/production/_129178615_averiannapatton-index1.jpg",
+            "publishedAt": "2023-03-29T06:22:19.9443804Z",
+            "content": "Media caption, Watch: Nashville shooter sent out alarming messages\r\nAverianna Patton is thought to be one of the last people the Nashville school shooter messaged before the attack.\r\nOn Monday mornin… [+1742 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ticketmaster faces lawsuit over Drake ticket prices",
+            "description": "A Canadian class-action lawsuit alleges that the ticketing site inflated prices in \"bad faith\".",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-65105755",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/174F5/production/_129177459_gettyimages-600124256.jpg",
+            "publishedAt": "2023-03-29T01:07:11.0690577Z",
+            "content": "A Canadian law firm has filed a class-action lawsuit against Ticketmaster for allegedly inflating ticket prices for an upcoming Drake concert. \r\nThe lawsuit was filed on behalf of a Quebec man, who a… [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amsterdam launches 'stay away' ad campaign targeting young British men",
+            "description": "The Dutch city targets UK men aged 18-35 in an ad campaign aimed at changing its reputation.",
+            "url": "http://www.bbc.co.uk/news/world-europe-65107405",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16695/production/_129179719_gettyimages-1449089604.jpg",
+            "publishedAt": "2023-03-29T00:07:17.6006822Z",
+            "content": "Amsterdam has warned rowdy British sex and drug tourists to \"stay away\". \r\nA digital discouragement campaign targeting men aged 18 to 35 in the UK is being pushed out by the Dutch city's council. \r\nT… [+4403 chars]"
+        }
+    ]
+}
